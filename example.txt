@@ -1,1 +1,2 @@
 this is an example of 'example.txt' file
+it is the changes from github
